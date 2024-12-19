@@ -45,7 +45,7 @@ export const Appbar = () => {
           </span>
         </button>
 
-        <Avatar size={"big"} name="Sparsh Jain" />
+        <Avatar size={"big"} name="Rohit" />
       </div>
     </div>
   );
